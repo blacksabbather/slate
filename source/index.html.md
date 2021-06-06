@@ -69,7 +69,7 @@ You must replace <code>meowmeowmeow</code> with your personal API key.
 
 # Kittens
 
-## Get All Kittens
+## Get All New MJ Kittens
 
 ```ruby
 require 'kittn'
